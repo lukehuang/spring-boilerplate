@@ -125,12 +125,13 @@ function createApp(name, type) {
 
   // git clone 远端代码
   clone(
-    "https://github.com/wxyyxc1992/create-spring-boot-app",
+    "https://git.coding.net/hoteam/create-spring-boot-app.git",
     ".tmp",
     {
       checkout:'master'
     },
     function() {
+
       // 移动出模板文件
       fs.copySync("./.tmp/gradle-boilerplate", "./");
 

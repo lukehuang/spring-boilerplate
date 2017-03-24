@@ -124,7 +124,7 @@ bootRepackage {
 // 设置打包生成的 Jar 包信息
 jar {
     baseName = 'spring-boot-app-boilerplate'
-    version = '0.0.1-SNAPSHOT'
+    version = '0.0.1'
 }
 
 // 共享模块

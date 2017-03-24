@@ -1,13 +1,13 @@
 {
   "name": "create-spring-boot-app",
-  "version": "0.0.5",
+  "version": "0.0.8",
   "description": "scaffold for creating engineering springboot project",
   "author": "wxyyxc1992",
   "license": "MIT",
   "homepage": "https://github.com/wxyyxc1992/create-spring-boot-app",
   "repository": {
     "type": "git",
-    "url": "create-spring-boot-app"
+    "url": "https://github.com/wxyyxc1992/create-spring-boot-app"
   },
   "keywords": [
     "boilerplate",
